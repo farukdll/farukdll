@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[faruk-gif](faruk.gif)
 <!--
 **farukdll/farukdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
