@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | 4   | [get_next_line](../../../42-get_next_line)  | ✅125  |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  | [so_long](../../../42-so_long)              | ✅111  |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
-| 6A  | [minitalk](../../../42-minitalk)            | ✅115  |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
+| 6A  | [minitalk](../../../42-minitalk)            | ✅115  |   | 15  | CPP Module 04                              | 🔒     |   | 25  | Exam_rank_2                    |         |
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   | [push_swap](../../../42-push_swap)          | ✅84   |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | [minishell]                                 | 📝     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
