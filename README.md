@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 | 4   | [get_next_line](../../../42-get_next_line)  | ✅125  |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  | [so_long](../../../42-so_long)              | ✅111  |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
-| 6A  | [minitalk](../../../42-minitalk)            | ✅115  |   | 15  | CPP Module 04                              | 🔒     |   | 25  | Exam_rank_2                    |         |
-| 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   | [push_swap](../../../42-push_swap)          | ✅84   |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   | [minishell]                                 | 📝     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   | [Philosphers]                               | 📝     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat](../../../42-netwhat) | 🔒      |
+| 6A  | [minitalk](../../../42-minitalk)            | ✅115  |   | 15  | CPP Module 04                              | 🔒     |   | 26  | Exam_Rank_2                    |         |
+| 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   | 27  | Exam_Rank_3                    |         |
+| 7   | [push_swap](../../../42-push_swap)          | ✅84   |   | 17  | CPP Module 06                              | 🔒     |   | 28  | Exam_Rank_4                    |         |
+| 8   | [minishell]                                 | 📝     |   | 18  | CPP Module 07                              | 🔒     |   | 29  | Exam_Rank_5                    |         |
+| 9   | [Philosphers]                               | 📝     |   | 19  | CPP Module 08                              | 🔒     |   | 30  | [netwhat](../../../42-netwhat) | 🔒      |
 
 
 [![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=farukdll&show_icons=true&theme=radical)](https://github.com/farukdll)
