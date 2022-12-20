@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 42cursus Progress 💪🏻
+## Progress in Projects 🦠
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-Libft)                  | ✅100  |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
