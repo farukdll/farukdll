@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-Libft)                  | ✅100  |   | 10.1| cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
 | 2   | [Born2beroot](../../../42-Born2beroot)      | ✅100  |   | 10.2| miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](../../../42-ft_printf)          | ✅100  |   | 11  | [CPP Module 00]                            | 🔒     |   | 22.1| ft_irc                         | 🔒      |
+| 3   | [ft_printf](../../../42-ft_printf)          | ✅100  |   | 11  | CPP Module 00                              | 🔒     |   | 22.1| ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../42-get_next_line)  | ✅125  |   | 12  | CPP Module 01                              | 🔒     |   | 22.2| webserv                        | 🔒      |
 | 5.1 | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5.2 | [so_long](../../../42-so_long)              | ✅111  |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
