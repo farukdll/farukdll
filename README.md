@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | 6.1 | [minitalk](../../../42-minitalk)            | ✅115  |   | 14  | CPP Module 02                               | 🔒     |   | E5  | Exam_Rank_5                                 | 🔒     |
 | 6.2 | pipex                                       | 🔒     |   | 15  | CPP Module 03                               | 🔒     |   | 24  | ft_transcendence                            | 🔒     |
 | 7   | [push_swap](../../../42-push_swap)          | ✅84   |   | 16  | CPP Module 04                               | 🔒     |   | E6  | Exam_Rank_6                                 | 🔒     |
-| E2  | [Exam_Rank_2](../../../Exam_2)              | 📝     |   | 17  | CPP Module 05                               | 🔒     |
+| E2  | [Exam_2](../../../Exam_2)                   | 📝     |   | 17  | CPP Module 05                               | 🔒     |
 | 8   | [Philosphers]                               | 📝     |   | 18  | CPP Module 06                               | 🔒     |
 
 
