@@ -46,4 +46,3 @@ Here are some ideas to get you started:
 
 [![Apoorv's github && 42 stats](https://awesome-github-stats.azurewebsites.net/user-stats/farukdll?cardType=github&theme=vision-friendly-dark)](https://github.com/farukdll)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukdll&layout=compact&theme=radical)](https://github.com/farukdll)
