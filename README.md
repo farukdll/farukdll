@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | 6.2 | pipex                                       | 🔒     |   | 15  | CPP Module 03                               | 🔒     |   | 24  | ft_transcendence                            | 🔒     |
 | 7   | [push_swap](../../../42-push_swap)          | ✅84   |   | 16  | CPP Module 04                               | 🔒     |   | E6  | Exam_6                                      | 🔒     |
 | E2  | [Exam_2](../../../Exam_2)                   | ✅100  |   | 17  | CPP Module 05                               | 🔒     |
-| 8   | [Philosphers]                               | 📝     |   | 18  | CPP Module 06                               | 🔒     |
+| 8   | [Philosphers](../../../42-philosophers )    | 📝     |   | 18  | CPP Module 06                               | 🔒     |
 
 
 [![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=farukdll&show_icons=true&theme=radical)](https://github.com/farukdll)
