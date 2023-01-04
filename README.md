@@ -33,15 +33,14 @@ Here are some ideas to get you started:
 | 8   | [Philosphers](../../../42-philosophers )    | 📝     |   | 18  | CPP Module 06                               | 🔒     |
 
 
-[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=farukdll&show_icons=true&theme=vision-friendly-dark)](https://github.com/farukdll)
+[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=farukdll&show_icons=github&theme=vision-friendly-dark)](https://github.com/farukdll)
+<!-- [![Apoorv's github && 42 stats](https://awesome-github-stats.azurewebsites.net/user-stats/farukdll?cardType=github&theme=great-gatsby)](https://github.com/farukdll) -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukdll&layout=compact&theme=radical)](https://github.com/farukdll)-->
 
 [![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=farukdll&layout=compact&theme=radical)](https://github.com/farukdll)
 
 [![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=farukdll&cardType=github&theme=vision-friendly-dark)](https://github.com/farukdll)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukdll&langs_count=8&show_icons=true&theme=vision-friendly-dark)](https://github.com/farukdll)-->
 
 <!-- [![Apoorv's github && 42 stats](https://awesome-github-stats.azurewebsites.net/user-stats/farukdll?cardType=github&theme=outrun)](https://github.com/farukdll) -->
 
