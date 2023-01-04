@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 [![Apoorv's github && 42 stats](https://awesome-github-stats.azurewebsites.net/user-stats/farukdll?cardType=github&theme=ocean-dark)](https://github.com/farukdll)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/farukdll?cardType=github&theme=ocean-dark)](https://git.io/awesome-stats-card)
+[![Apoorv's github && 42 stats](https://awesome-github-stats.azurewebsites.net/user-stats/farukdll?cardType=github&theme=outrun)](https://github.com/farukdll)
