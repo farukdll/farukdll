@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 ![faruk-gif](faruk.gif)
-<!--
+![faruk](https://user-images.githubusercontent.com/97880185/210878122-0ce41559-1b67-4575-95ec-c77563fcbe9b.gif)
+
+<!--![faruk](https://user-images.githubusercontent.com/97880185/210878098-5424eef4-6208-4cbf-9c64-8175b2eafae0.gif)
+
 **farukdll/farukdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
