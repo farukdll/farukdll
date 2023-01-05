@@ -1,24 +1,10 @@
 ### Hi there 👋
 
 ![faruk-gif](faruk.gif)
-![faruk](faruk.gif)
-![yber (1)](https://user-images.githubusercontent.com/97880185/210878259-f5b34faa-e3e0-4f30-84da-605c41b3742c.gif)
 
 
-<!--![faruk](https://user-images.githubusercontent.com/97880185/210878098-5424eef4-6208-4cbf-9c64-8175b2eafae0.gif)
-
-**farukdll/farukdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+---------------------------
 -->
 
 ## Progress in Projects 🦠
