@@ -3,7 +3,6 @@
 ![faruk-gif](faruk.gif)
 
 
-https://user-images.githubusercontent.com/97880185/210880665-ef001be5-8694-4491-acc5-6a0f3c8fd254.mp4
 
 
 
