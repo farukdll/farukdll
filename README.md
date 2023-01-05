@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![faruk-gif](faruk.gif)
-![faruk](https://user-images.githubusercontent.com/97880185/210878122-0ce41559-1b67-4575-95ec-c77563fcbe9b.gif)
+![faruk](faruk.gif)
 ![yber (1)](https://user-images.githubusercontent.com/97880185/210878259-f5b34faa-e3e0-4f30-84da-605c41b3742c.gif)
 
 
