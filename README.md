@@ -2,6 +2,7 @@
 
 ![faruk-gif](faruk.gif)
 
+![faruk-gif](faruk1.gif)
 
 
 
