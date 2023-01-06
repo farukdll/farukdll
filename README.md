@@ -1,14 +1,8 @@
 ### 🦠🦠 Hi there 🦠🦠
-<!--
-![faruk-gif](faruk.gif)
-![faruk1-gif](faruk1.gif)
--->
+
 ![faruk2-gif](faruk2.gif)
 ![faruk3-gif](faruk3.gif)
 
-<!--
-![faruk4-gif](faruk4.gif)
--->
 
 <!--
 ---------------------------
