@@ -1,6 +1,5 @@
 ### 🦠🦠 Hi there 🦠🦠
 
-<!-- ![faruk1-gif](faruk1.gif) -->
 ![faruk2-gif](faruk2.gif)
 <!--
 ![faruk3-gif](faruk3.gif)
