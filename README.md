@@ -13,7 +13,7 @@
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-Libft)                  | ✅100  |   | 9   | [minishell]                                 | 📝     |   | 19  | CPP Module 07                               | 🔒     |
-| 2   | [ft_printf](../../../42-ft_printf)          | ✅100  |   | E3  | Exam_3                                      | 🔒     |   | 20  | CPP Module 08                               | 🔒     |
+| 2   | [ft_printf](../../../42-ft_printf)          | ✅100  |   | E3  | [Exam_3](../../../Exam_03)                  | 🔒     |   | 20  | CPP Module 08                               | 🔒     |
 | 3   | [get_next_line](../../../42-get_next_line)  | ✅125  |   | 10  | NetPractice                                 | 🔒     |   | E4  | Exam_4                                      | 🔒     |
 | 4   | [Born2beroot](../../../42-Born2beroot)      | ✅100  |   | 11.1| cub3d                                       | 🔒     |   | 21  | ft_containers                               | 🔒     |
 | 5.1 | [so_long](../../../42-so_long)              | ✅111  |   | 11.2| miniRT                                      | 🔒     |   | 22  | Inception                                   | 🔒     |
