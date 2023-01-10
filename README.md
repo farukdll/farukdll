@@ -13,7 +13,7 @@
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../42-Libft)                  | ✅100  |   | 9   | [minishell](../../../42-minishell)          | 📝     |   | 19  | CPP Module 07                               | 🔒     |
-| 2   | [ft_printf](../../../42-ft_printf)          | ✅100  |   | E3  | [Exam_3](../../../Exam_Rank_03)             | ✅100  |   | 20  | CPP Module 08                               | 🔒     |
+| 2   | [ft_printf](../../../42-ft_printf)          | ✅100  |   | E3  | [Exam-3](../../../Exam-03)                  | ✅100  |   | 20  | CPP Module 08                               | 🔒     |
 | 3   | [get_next_line](../../../42-get_next_line)  | ✅125  |   | 10  | [NetPractice](../../../42-NetPractice)      | 📝     |   | E4  | Exam_4                                      | 🔒     |
 | 4   | [Born2beroot](../../../42-Born2beroot)      | ✅100  |   | 11.1| cub3d                                       | 🔒     |   | 21  | ft_containers                               | 🔒     |
 | 5.1 | [so_long](../../../42-so_long)              | ✅111  |   | 11.2| miniRT                                      | 🔒     |   | 22  | Inception                                   | 🔒     |
@@ -22,7 +22,7 @@
 | 6.1 | [minitalk](../../../42-minitalk)            | ✅115  |   | 14  | CPP Module 02                               | 🔒     |   | E5  | Exam_5                                      | 🔒     |
 | 6.2 | pipex                                       | 🔒     |   | 15  | CPP Module 03                               | 🔒     |   | 24  | ft_transcendence                            | 🔒     |
 | 7   | [push_swap](../../../42-push_swap)          | ✅84   |   | 16  | CPP Module 04                               | 🔒     |   | E6  | Exam_6                                      | 🔒     |
-| E2  | [Exam_2](../../../Exam_Rank_2)                   | ✅100  |   | 17  | CPP Module 05                               | 🔒     |
+| E2  | [Exam_2](../../../Exam-2)                   | ✅100  |   | 17  | CPP Module 05                               | 🔒     |
 | 8   | [Philosphers](../../../42-philosophers )    | ✅100  |   | 18  | CPP Module 06                               | 🔒     |
 
 
