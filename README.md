@@ -77,8 +77,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center">
-  <!--<img height="12" width="1000" src="https://github.com/leonardodll/leonardodll/assets/145828941/310944e5-855b-4919-b1ac-8e8cddd89a56">-->
-  <img height="2" width="1000" src="https://github.com/leonardodll/leonardodll/assets/145828941/f7af6f44-0531-4205-b6a3-0f29be8e762d">
+  <img height="2" width="1000" src="https://github.com/farukdll/farukdll/blob/main/rainbow.gif">
   </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------- -->
