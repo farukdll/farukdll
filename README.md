@@ -73,7 +73,12 @@
   <img alt="farukdll" src="https://komarev.com/ghpvc/?username=farukdll&label=Profile%20views&color=FF0000&style=flat">
   </br>
   </p>
-
+<!--
+<p align="right">
+  <img alt="farukdll" src="https://visitor-badge.laobi.icu/badge?page_id=farukdll.farukdll">
+  </br>
+  </p>
+-->
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center">
