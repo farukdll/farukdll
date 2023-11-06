@@ -27,34 +27,34 @@
 
 #### 💻 Tech Stack
 <p align="center">
-  <img height="45" alt="Cisco" src="https://cdn.simpleicons.org/cisco/049fd9"/>
-  <img width="11"/>
+  <img height="50" alt="Cisco" src="https://cdn.simpleicons.org/cisco/049fd9"/>
+  <img width="5"/>
   <img height="39" alt="PacketTracer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
-  <img width="11" />
+  <img width="7" />
   <img height="39" src="https://cdn.simpleicons.org/tryhackme/FF0000"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" src="https://cdn.simpleicons.org/hackthebox/4EAA25"/>
-  <img width="11"/>
+  <img width="5"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img width="11"/>
+  <img width="5"/>
   <img height="39" src="https://cdn.simpleicons.org/gnubash/4EAA25"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" src="https://skillicons.dev/icons?i=linux"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" src="https://skillicons.dev/icons?i=github"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" src="https://cdn.simpleicons.org/git/F05032"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" alt="GithubMarkdown" src="https://skillicons.dev/icons?i=md"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" alt="AdobePhotoshop" src="https://skillicons.dev/icons?i=ps"/>
-  <img width="11"/>
+  <img width="7"/>
   <img height="39" alt="PremierePro" src="https://skillicons.dev/icons?i=pr"/>
 </p></br>
 
