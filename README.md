@@ -17,7 +17,7 @@
   
 #### 💬 Contact Me
 [<img width="37dp" alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>][linkedin]
-[<img width="37dp" alt="twitter" src="https://toppng.com/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp"/>][twitter]
+<!--[<img width="37dp" alt="twitter" src=""/>][twitter]-->
 
 [linkedin]: https://www.linkedin.com/in/farukpektas/
 [twitter]: https://twitter.com/farukdll_/
